@@ -44,7 +44,7 @@ While studying at IST, I developed several tools and completed numerous course p
 - **Comp** - Compilers
     - [friaes/Comp](https://github.com/friaes/Comp)
 - **CG** - Computer Graphics
-    - [JoaoFidalgo1403/CG_CraneModel](https://github.com/JoaoFidalgo1403/CG_CraneModel))
+    - [JoaoFidalgo1403/CG_CraneModel](https://github.com/JoaoFidalgo1403/CG_CraneModel)
     - [Tom4sCruz/CG_Carousel](https://github.com/Tom4sCruz/CG_Carousel)
 - **SD** - Distributed Systems
     - [friaes/SD](https://github.com/friaes/SD)

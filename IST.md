@@ -7,46 +7,46 @@ While studying at IST, I developed several tools and completed numerous course p
 ### 1st Year
 
 - **FP** - Foundations of Programming
-    - Project: [friaes/FP](https://github.com/friaes/FP)
+    - [friaes/FP](https://github.com/friaes/FP)
 - **LP** - Logic for Programming
-    - Project : [friaes/LP](https://github.com/friaes/LP)
+    - [friaes/LP](https://github.com/friaes/LP)
 - **IAC** - Introduction to Computer Architecture
-    - Project: [friaes/IAC](https://github.com/friaes/IAC)
+    - [friaes/IAC](https://github.com/friaes/IAC)
 - **IAED** - Introduction to Algorithms and Data Structures
-    - Project: [friaes/IAED](https://github.com/friaes/IAED)
+    - [friaes/IAED](https://github.com/friaes/IAED)
 
 ### 2nd Year
 
 - **ASA** - Analysis and Synthesis of Algorithms
-    - Project : [friaes/ASA](https://github.com/friaes/ASA)
+    - [friaes/ASA](https://github.com/friaes/ASA)
 - **PO** - Object-Oriented Programming
-    - Project: [friaes/PO](https://github.com/friaes/PO)
+    - [friaes/PO](https://github.com/friaes/PO)
 - **SO** - Operating Systems
-    - Project 1: [friaes/TecnicoFS](https://github.com/friaes/TecnicoFS)
-    - Project 2: [TiDiane/Message-Broker](https://github.com/TiDeane/Message-Broker)
+    - [friaes/TecnicoFS](https://github.com/friaes/TecnicoFS)
+    - [TiDiane/Message-Broker](https://github.com/TiDeane/Message-Broker)
 - **IA** - Artificial Intelligence
-    - Project: [friaes/IA]()
+    - [friaes/IA]()
 - **BD** - Databases
-    - Projects: [friaes/BD](https://github.com/friaes/BD)
+    - [friaes/BD](https://github.com/friaes/BD)
 - **IPM** - Human-Computer Interaction
-    - Projects [friaes/IPM]()
+    - [friaes/IPM]()
 
 ### 3rd Year
 
 - **RC** - Computer Networks
-    - Project: [joserlopes/RC](https://github.com/joserlopes/RC)
+    - [joserlopes/RC](https://github.com/joserlopes/RC)
 - **OC** - Computer Organization
-    - Project: [gazev/oc-labs](https://github.com/gazev/oc-labs)
+    - [gazev/oc-labs](https://github.com/gazev/oc-labs)
 - **Apre** - Machine Learning
-    - Homeworks: [friaes/Apre]()
+    - [friaes/Apre]()
 - **AMS** - Systems Analysis and Modeling
-    - Project: [joserlopes/AMS-SuperShop](https://github.com/joserlopes/AMS-SuperShop)
+    - [joserlopes/AMS-SuperShop](https://github.com/joserlopes/AMS-SuperShop)
 - **Comp** - Compilers
-    - Project: [friaes/Comp](https://github.com/friaes/Comp)
+    - [friaes/Comp](https://github.com/friaes/Comp)
 - **CG** - Computer Graphics
-    - Project 1: [JoaoFidalgo1403/CG_CraneModel](https://github.com/JoaoFidalgo1403/CG_CraneModel))
-    - Project 2: [Tom4sCruz/CG_Carousel](https://github.com/Tom4sCruz/CG_Carousel)
+    - [JoaoFidalgo1403/CG_CraneModel](https://github.com/JoaoFidalgo1403/CG_CraneModel))
+    - [Tom4sCruz/CG_Carousel](https://github.com/Tom4sCruz/CG_Carousel)
 - **SD** - Distributed Systems
-    - Project: [friaes/SD](https://github.com/friaes/SD)
+    - [friaes/SD](https://github.com/friaes/SD)
 - **ES** - Software Engineering
-    - Project: [friaes/ES](https://github.com/friaes/ES)
+    - [friaes/ES](https://github.com/friaes/ES)

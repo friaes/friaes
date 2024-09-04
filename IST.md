@@ -1,6 +1,6 @@
 # IST - Instituto Superior Técnico da Universidade de Lisboa
 
-## LEIC-A Course Projects
+## LEIC-A Projects
 
 While studying at IST, I developed several tools and completed numerous course projects. You can find a collection of these repositories here.
 

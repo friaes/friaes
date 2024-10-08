@@ -50,3 +50,5 @@ While studying at IST, I developed several tools and completed numerous course p
     - [friaes/SD](https://github.com/friaes/SD)
 - **ES** - Software Engineering
     - [friaes/ES](https://github.com/friaes/ES)
+- **PIC** - Integrated Project in Computer Science and Engineering
+    - [friaes/PIC](https://github.com/friaes/PIC)

@@ -7,7 +7,7 @@ While studying at IST, I developed several tools and completed numerous course p
 ### 1st Year
 
 - **FP** - Foundations of Programming
-    - [friaes/FP](https://github.com/friaes/FP)
+    - [friaes/FP](https://github.com/friaes/ist-fp)
 - **LP** - Logic for Programming
     - [friaes/LP](https://github.com/friaes/LP)
 - **IAC** - Introduction to Computer Architecture
@@ -46,8 +46,8 @@ While studying at IST, I developed several tools and completed numerous course p
 - **CG** - Computer Graphics
     - [JoaoFidalgo1403/CG_CraneModel](https://github.com/JoaoFidalgo1403/CG_CraneModel)
     - [Tom4sCruz/CG_Carousel](https://github.com/Tom4sCruz/CG_Carousel)
-- **SD** - Distributed Systems
-    - [friaes/SD](https://github.com/friaes/SD)
+- **DS** - Distributed Systems
+    - [friaes/SD](https://github.com/friaes/ist-ds)
 - **ES** - Software Engineering
     - [friaes/ES](https://github.com/friaes/ES)
 - **PIC** - Integrated Project in Computer Science and Engineering

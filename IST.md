@@ -11,9 +11,9 @@ While studying at IST, I developed several tools and completed numerous course p
 - **LP** - Logic for Programming
     - [friaes/LP](https://github.com/friaes/ist-lp)
 - **ICA** - Introduction to Computer Architecture
-    - [friaes/IAC](https://github.com/friaes/ist-ica)
+    - [friaes/ICA](https://github.com/friaes/ist-ica)
 - **IADS** - Introduction to Algorithms and Data Structures
-    - [friaes/IAED](https://github.com/friaes/ist-iads)
+    - [friaes/IADS](https://github.com/friaes/ist-iads)
 
 ### 2nd Year
 

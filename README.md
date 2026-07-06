@@ -4,8 +4,7 @@
 - 📖 Currently pursuing a Master in CS, at the universities of Bern, Neuchâtel, and Fribourg (BeNeFri).
 - 🚀 [My projects from IST](https://github.com/friaes/friaes/blob/main/IST.md)
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friaes&hide=Groovy,Jupyter%20Notebook,CMake&theme=tokyonight)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=friaes&layout=compact&theme=onedark&langs_count=8&hide=html,groovy,rocq%20prover,jupyter%20notebook" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=friaes&layout=compact&theme=onedark&langs_count=8&hide=html,groovy,rocq%20prover,jupyter%20notebook&exclude_repo=numerical-optimization-cpp" alt="Top Languages" />
 </div>

@@ -6,4 +6,4 @@
 #
 
 
-<img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=friaes&layout=compact&theme=onedark&langs_count=8&hide=html,groovy,jupyter%20notebook" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=friaes&layout=compact&theme=onedark&langs_count=8&hide=html,groovy,jupyter%20notebook,rocq%20prover" alt="Top Languages" />

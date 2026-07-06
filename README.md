@@ -7,5 +7,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friaes&hide=Groovy,Jupyter%20Notebook,CMake&theme=tokyonight)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=friaes&layout=compact&theme=onedark&langs_count=8&hide=html&groovy&jupyter%20notebook" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=friaes&layout=compact&theme=onedark&langs_count=8&hide=html,groovy,rocq,jupyter%20notebook" alt="Top Languages" />
 </div>

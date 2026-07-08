@@ -34,7 +34,7 @@ While studying at IST, I developed several tools and completed numerous course p
 ### 3rd Year
 
 - **CN** - Computer Networks
-    - [joserlopes/RC](https://github.com/joserlopes/RC)
+    - [friaes/CN](https://github.com/friaes/auction-sockets)
 - **CO** - Computer Organization
     - [gazev/oc-labs](https://github.com/gazev/oc-labs)
 - **ML** - Machine Learning

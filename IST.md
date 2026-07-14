@@ -38,7 +38,7 @@ While studying at IST, I developed several tools and completed numerous course p
 - **CO** - Computer Organization
     - [gazev/oc-labs](https://github.com/gazev/oc-labs)
 - **ML** - Machine Learning
-    - [friaes/ML]()
+    - [friaes/ML](https://github.com/friaes/ist-ml)
 - **SAM** - Systems Analysis and Modeling
     - [joserlopes/AMS-SuperShop](https://github.com/joserlopes/AMS-SuperShop)
 - **Comp** - Compilers

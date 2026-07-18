@@ -2,7 +2,7 @@
 - 🇨🇭 I am currently studying in Switzerland
 - 🎓 Bachelor in Computer Science and Engineering (LEIC-A), at Instituto Superior Técnico of the University of Lisbon.
 - 📖 Currently pursuing a Master in CS, at the universities of Bern, Neuchâtel, and Fribourg (BeNeFri).
-- 🚀 [My projects from IST](https://github.com/friaes/friaes/blob/main/IST.md)
+- 🚀 [My projects from IST](https://github.com/friaes/friaes/blob/main/IST.md) & [from BeNeFri](https://github.com/friaes/friaes/blob/main/MSc.md)
 #
 
 

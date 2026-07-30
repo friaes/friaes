@@ -12,6 +12,8 @@ During my Master of Science in Computer Science (BeNeFri joint programme), I wor
     - [friaes/Concurrency](https://github.com/friaes/concurrent-programming-java)
 - **SysV** - Systems Verification
     - [friaes/SysV](https://github.com/friaes/formal-methods-coq-spin)
+- **SemSEG** - Seminar Software Engineering
+    - [friaes/Energy-Aware-AV-Simulation](https://github.com/friaes/Energy-Aware-AV-Simulation)
 
 ### Visual Computing
 - **CV** - Computer Vision

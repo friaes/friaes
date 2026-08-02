@@ -29,6 +29,7 @@ During my Master of Science in Computer Science (BeNeFri joint programme), I wor
 - **PR** - Pattern Recognition
     - [friaes/PR](https://github.com/friaes/pattern-recognition)
     - [friaes/PR-MNIST](https://github.com/friaes/mnist-classifiers)
+    - [friaes/PR-KWS](https://github.com/friaes/keyword-spotting-dtw)
 - **BDI** - Big Data Infrastructures
     - [friaes/BDI]()
 
